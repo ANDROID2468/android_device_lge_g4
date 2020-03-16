@@ -14,14 +14,14 @@
 # limitations under the License.
 #
 
-$(call inherit-product, $(LOCAL_PATH)/lineage.mk)
+$(call inherit-product, $(LOCAL_PATH)/potato.mk)
 
 # Inherit from hardware-specific part of the product configuration
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
 
 # Setup device specific product configuration
 # Set those variables here to overwrite the inherited values.
-PRODUCT_NAME := lineage_h811
+PRODUCT_NAME := potato_h811
 PRODUCT_DEVICE := h811
 PRODUCT_BRAND := lge
 PRODUCT_MODEL := LG-H811
