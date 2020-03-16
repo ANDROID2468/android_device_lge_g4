@@ -45,4 +45,4 @@ PRODUCT_PROPERTY_OVERRIDES += \
     telephony.lteOnCdmaDevice=0 \
     telephony.lteOnGsmDevice=1
 
-DEBUG_ME += lineage_h811.mk
+DEBUG_ME += potato_h811.mk
