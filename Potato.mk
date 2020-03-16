@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-DEBUG_ME += lineage.mk
+DEBUG_ME += Potato.mk
 
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk)                                                        
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)                                                
