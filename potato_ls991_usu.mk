@@ -22,7 +22,7 @@ $(call inherit-product, $(LOCAL_PATH)/device.mk)
 # Setup device specific product configuration
 # Set those variables here to overwrite the inherited values.
 PRODUCT_DEVICE := ls991_usu
-PRODUCT_NAME := lineage_ls991_usu
+PRODUCT_NAME := potato_ls991_usu
 PRODUCT_BRAND := lge
 PRODUCT_MODEL := LGLS991
 PRODUCT_MANUFACTURER := LGE
@@ -44,4 +44,4 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.telephony.default_network=10 \
     telephony.lteOnCdmaDevice=1
 
-DEBUG_ME += lineage_ls991_usu.mk
+DEBUG_ME += potato_ls991_usu.mk
