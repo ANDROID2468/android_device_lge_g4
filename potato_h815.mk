@@ -22,7 +22,7 @@ $(call inherit-product, $(LOCAL_PATH)/device.mk)
 # Setup device specific product configuration
 # Set those variables here to overwrite the inherited values.
 PRODUCT_DEVICE := h815
-PRODUCT_NAME := lineage_h815
+PRODUCT_NAME := potato_h815
 PRODUCT_BRAND := lge
 PRODUCT_MODEL := LG-H815
 PRODUCT_MANUFACTURER := LGE
@@ -45,4 +45,4 @@ PRODUCT_PROPERTY_OVERRIDES += \
     telephony.lteOnCdmaDevice=0 \
     telephony.lteOnGsmDevice=1
 
-DEBUG_ME += lineage_h815.mk
+DEBUG_ME += potato_h815.mk
