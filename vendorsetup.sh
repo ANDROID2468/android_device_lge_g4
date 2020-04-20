@@ -1,7 +1,7 @@
 export ALLOW_MISSING_DEPENDENCIES=true
 export USE_NINJA=true
 export LLVM_ENABLE_THREADS=1
-export WITH_DEXPREOPT=falsee 
+export WITH_DEXPREOPT=false
 
 add_lunch_combo potato_f500_usu-userdebug
 add_lunch_combo potato_f500_usu-user
