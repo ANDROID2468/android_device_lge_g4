@@ -13,9 +13,9 @@ add_lunch_combo potato_h810_usu-userdebug
 add_lunch_combo potato_h810_usu-user
 add_lunch_combo potato_h810_usu_eng
 
-add_lunch_combo potato_h811_usu-userdebug
-add_lunch_combo potato_h811_usu-user
-add_lunch_combo potato_h811_usu_eng
+add_lunch_combo potato_h811-userdebug
+add_lunch_combo potato_h811-user
+add_lunch_combo potato_h811-eng
 
 add_lunch_combo potato_h812_usu-userdebug
 add_lunch_combo potato_h812_usu-user
