@@ -30,7 +30,7 @@ Rear Camera  | 16 MP hybrid infared autofocus, dual-LED flash
 Front Camera | 8 MP
 Release Date | April 2015
 
-![LG G4](http://cdn2.gsmarena.com/vv/pics/lg/lg-g4-1.jpg "LG G4")
+![LG G4](https://raw.githubusercontent.com/ANDROID2468/issues_potato/master/lge_potato.png "LG G4")
 
 
 ## Port this tree to a new / other ROM
