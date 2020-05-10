@@ -2,6 +2,8 @@ Copyright 2015-2016 - The CyanogenMod Project
 
 Copyright 2017-2019 - The LineageOS Project
 
+<img src="https://i.imgur.com/tmt6SBG.png">
+
 
 Unified device tree for all G4 models
 =====================================
