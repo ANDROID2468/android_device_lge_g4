@@ -1,7 +1,6 @@
 export ALLOW_MISSING_DEPENDENCIES=true
 export USE_NINJA=true
 export LLVM_ENABLE_THREADS=1
-export WITH_DEXPREOPT=false
 export USE_CCACHE=1
 prebuilts/misc/linux-x86/ccache/ccache -M 50G
 
